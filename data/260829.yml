@@ -1,0 +1,66 @@
+about:
+  description: Workflow Engine for Kubernetes
+  license: Apache-2.0
+  homepage: https://argo-workflows.readthedocs.io/
+  head: bde5adf
+  archived: false
+  latestVersion: v4.1.2
+  collectedAt: 2026-08-29T07:19:53Z
+timeline:
+  created: 2017-08-21
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-21
+popularity:
+  star: 16945
+  watcher: 199
+  fork: 3633
+  release: 356
+  contributor: 1045
+  pullRequest: 1709
+  issue: 6645
+language:
+  Go: 6256931
+  TypeScript: 792590
+  Nix: 116037
+  Makefile: 54508
+  SCSS: 41818
+  Python: 23431
+  Shell: 19321
+  Dockerfile: 8147
+  JavaScript: 6074
+  Java: 2559
+  HTML: 452
+totalLine: 7321868
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 7
+    mergedPR: 156
+    openPR: 37
+    closedIssue: 11
+    openIssue: 19
+    commit: 106
+  last90d:
+    since: 2026-05-31
+    release: 14
+    mergedPR: 469
+    openPR: 70
+    closedIssue: 39
+    openIssue: 39
+    commit: 336
+  last180d:
+    since: 2026-03-02
+    release: 22
+    mergedPR: 776
+    openPR: 117
+    closedIssue: 76
+    openIssue: 69
+    commit: 550
+  last360d:
+    since: 2025-09-03
+    release: 46
+    mergedPR: 1326
+    openPR: 159
+    closedIssue: 155
+    openIssue: 139
+    commit: 890
