@@ -7,7 +7,7 @@ about:
   head: 35bff19
   archived: false
   latestVersion: v4.1.2
-  collectedAt: 2026-09-04T19:54:43Z
+  collectedAt: 2026-09-04T20:46:10Z
 timeline:
   created: 2017-08-21
   lastCommit: 2026-09-01
@@ -90,6 +90,124 @@ total:
   openIssue: 982
   commit: 6735
 ---
+path: /home/runner/.x-repo/github.com/argoproj/argo-workflows
+collectedAt: 2026-09-04T20:46:23Z
+loc:
+  Yaml:
+    code: 1011347
+    comments: 1654
+    blanks: 2305
+    files: 734
+  Go:
+    code: 260608
+    comments: 12974
+    blanks: 24691
+    files: 1006
+  Json:
+    code: 31092
+    comments: 0
+    blanks: 0
+    files: 13
+  Tsx:
+    code: 12723
+    comments: 203
+    blanks: 1211
+    files: 178
+  TypeScript:
+    code: 4374
+    comments: 897
+    blanks: 659
+    files: 117
+  Nix:
+    code: 2678
+    comments: 258
+    blanks: 149
+    files: 6
+  Sass:
+    code: 1851
+    comments: 6
+    blanks: 352
+    files: 39
+  Protobuf:
+    code: 1812
+    comments: 1054
+    blanks: 787
+    files: 12
+  Toml:
+    code: 1064
+    comments: 5
+    blanks: 3
+    files: 2
+  Makefile:
+    code: 918
+    comments: 147
+    blanks: 165
+    files: 2
+  Sh:
+    code: 411
+    comments: 86
+    blanks: 76
+    files: 24
+  Python:
+    code: 160
+    comments: 18
+    blanks: 47
+    files: 1
+  JavaScript:
+    code: 152
+    comments: 12
+    blanks: 9
+    files: 7
+  Dockerfile:
+    code: 120
+    comments: 31
+    blanks: 65
+    files: 3
+  Xml:
+    code: 59
+    comments: 1
+    blanks: 4
+    files: 2
+  Java:
+    code: 48
+    comments: 1
+    blanks: 10
+    files: 1
+  Html:
+    code: 22
+    comments: 0
+    blanks: 7
+    files: 2
+  Svg:
+    code: 21
+    comments: 1
+    blanks: 0
+    files: 2
+  Bash:
+    code: 2
+    comments: 1
+    blanks: 1
+    files: 1
+  Bitbake:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 36769
+    blanks: 17074
+    files: 647
+  Text:
+    code: 0
+    comments: 5
+    blanks: 0
+    files: 3
+total:
+  code: 1337170
+  comments: 54941
+  blanks: 48199
+  files: 2803
 ---
 date: "2026-08-24"
 repo:
