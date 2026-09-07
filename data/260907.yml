@@ -2,25 +2,25 @@ about:
   description: "Workflow Engine for Kubernetes"
   license: Apache-2.0
   homepage: https://argo-workflows.readthedocs.io/
-  head: 35bff19
+  head: 38a9522
   archived: false
   latestVersion: "v4.1.2"
-  collectedAt: 2026-09-07T05:58:05Z
+  collectedAt: 2026-09-07T18:27:44Z
 timeline:
   created: 2017-08-21
-  lastCommit: 2026-09-01
+  lastCommit: 2026-09-07
   lastRelease: 2026-08-21
 popularity:
-  star: 16956
+  star: 16959
   watcher: 204
-  fork: 3644
+  fork: 3646
   release: 356
-  contributor: 1011
-  pullRequest: 8770
-  issue: 6652
+  contributor: 1012
+  pullRequest: 8785
+  issue: 6654
 language:
-  Go: 6257800
-  TypeScript: 806485
+  Go: 6261504
+  TypeScript: 806486
   Nix: 116037
   Makefile: 54508
   SCSS: 41818
@@ -30,66 +30,66 @@ language:
   JavaScript: 6074
   Java: 2559
   HTML: 452
-totalBytes: 7336632
+totalBytes: 7340337
 recent:
   last30d:
     since: 2026-08-08
     release: 6
-    mergedPR: 150
-    openPR: 41
+    mergedPR: 164
+    openPR: 38
     closedIssue: 10
-    openIssue: 20
-    commit: 61
+    openIssue: 22
+    commit: 70
   last60d:
     since: 2026-07-09
     release: 10
-    mergedPR: 292
-    openPR: 64
+    mergedPR: 306
+    openPR: 61
     closedIssue: 26
-    openIssue: 37
-    commit: 178
+    openIssue: 39
+    commit: 187
   last90d:
     since: 2026-06-09
     release: 14
-    mergedPR: 406
-    openPR: 82
+    mergedPR: 420
+    openPR: 79
     closedIssue: 39
-    openIssue: 44
-    commit: 265
+    openIssue: 46
+    commit: 274
   last180d:
     since: 2026-03-11
     release: 22
-    mergedPR: 767
-    openPR: 129
+    mergedPR: 781
+    openPR: 126
     closedIssue: 73
-    openIssue: 73
-    commit: 503
+    openIssue: 75
+    commit: 512
   last360d:
     since: 2025-09-12
     release: 44
-    mergedPR: 1303
-    openPR: 172
+    mergedPR: 1317
+    openPR: 169
     closedIssue: 152
-    openIssue: 143
-    commit: 881
+    openIssue: 145
+    commit: 890
   last720d:
     since: 2024-09-17
     release: 72
-    mergedPR: 1816
-    openPR: 248
+    mergedPR: 1830
+    openPR: 245
     closedIssue: 416
-    openIssue: 306
-    commit: 1329
+    openIssue: 308
+    commit: 1338
 total:
   release: 356
-  mergedPR: 7044
-  openPR: 292
+  mergedPR: 7058
+  openPR: 289
   closedIssue: 5669
-  openIssue: 983
-  commit: 6735
+  openIssue: 985
+  commit: 6744
 ---
 path: /home/runner/.x-repo/github.com/argoproj/argo-workflows
-collectedAt: 2026-09-07T05:58:56Z
+collectedAt: 2026-09-07T18:28:25Z
 loc:
   Yaml:
     code: 1011347
@@ -97,9 +97,9 @@ loc:
     blanks: 2305
     files: 734
   Go:
-    code: 260608
-    comments: 12974
-    blanks: 24691
+    code: 260675
+    comments: 12989
+    blanks: 24692
     files: 1006
   Json:
     code: 31092
@@ -193,8 +193,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 36769
-    blanks: 17074
+    comments: 36774
+    blanks: 17076
     files: 647
   Text:
     code: 0
@@ -202,9 +202,9 @@ loc:
     blanks: 0
     files: 3
 total:
-  code: 1337170
-  comments: 54941
-  blanks: 48199
+  code: 1337237
+  comments: 54961
+  blanks: 48202
   files: 2803
 ---
 date: "2026-08-24"
@@ -373,7 +373,7 @@ checks:
       - 'Info:   1 out of   1 npmCommand dependencies pinned'
 ---
 eget:
-  collectedAt: 2026-09-07T05:58:57+00:00
+  collectedAt: 2026-09-07T18:28:27+00:00
   platform:
     darwin/arm64:
       name:  argo-darwin-arm64.gz
