@@ -5,7 +5,7 @@ about:
   head: 38a9522
   archived: false
   latestVersion: "v4.1.2"
-  collectedAt: 2026-09-08T03:12:49Z
+  collectedAt: 2026-09-08T05:48:41Z
 timeline:
   created: 2017-08-21
   lastCommit: 2026-09-07
@@ -13,10 +13,10 @@ timeline:
 popularity:
   star: 16959
   watcher: 204
-  fork: 3645
+  fork: 3646
   release: 356
   contributor: 1012
-  pullRequest: 8786
+  pullRequest: 8787
   issue: 6654
 language:
   Go: 6261504
@@ -36,7 +36,7 @@ recent:
     since: 2026-08-09
     release: 6
     mergedPR: 164
-    openPR: 38
+    openPR: 39
     closedIssue: 10
     openIssue: 22
     commit: 70
@@ -44,7 +44,7 @@ recent:
     since: 2026-07-10
     release: 10
     mergedPR: 305
-    openPR: 62
+    openPR: 63
     closedIssue: 25
     openIssue: 39
     commit: 187
@@ -52,7 +52,7 @@ recent:
     since: 2026-06-10
     release: 14
     mergedPR: 406
-    openPR: 79
+    openPR: 80
     closedIssue: 38
     openIssue: 44
     commit: 274
@@ -60,7 +60,7 @@ recent:
     since: 2026-03-12
     release: 20
     mergedPR: 730
-    openPR: 127
+    openPR: 128
     closedIssue: 72
     openIssue: 75
     commit: 512
@@ -68,7 +68,7 @@ recent:
     since: 2025-09-13
     release: 44
     mergedPR: 1316
-    openPR: 170
+    openPR: 171
     closedIssue: 152
     openIssue: 145
     commit: 890
@@ -76,20 +76,20 @@ recent:
     since: 2024-09-18
     release: 72
     mergedPR: 1829
-    openPR: 245
+    openPR: 246
     closedIssue: 414
     openIssue: 306
     commit: 1334
 total:
   release: 356
   mergedPR: 7058
-  openPR: 290
+  openPR: 291
   closedIssue: 5669
   openIssue: 985
   commit: 6744
 ---
 path: /home/runner/.x-repo/github.com/argoproj/argo-workflows
-collectedAt: 2026-09-08T03:13:25Z
+collectedAt: 2026-09-08T05:49:18Z
 loc:
   Yaml:
     code: 1011347
