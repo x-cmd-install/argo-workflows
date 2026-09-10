@@ -2,26 +2,26 @@ about:
   description: "Workflow Engine for Kubernetes"
   license: Apache-2.0
   homepage: https://argo-workflows.readthedocs.io/
-  head: 9c747e1
+  head: f2cbcb5
   archived: false
   latestVersion: "v4.1.2"
   latestRelease: "v4.1.2"
   latestPrerelease: "v4.1.0-rc2"
-  collectedAt: 2026-09-10T05:50:51Z
+  collectedAt: 2026-09-10T20:29:05Z
 timeline:
   created: 2017-08-21
-  lastCommit: 2026-09-09
+  lastCommit: 2026-09-10
   lastVersion: 2026-08-21
   lastRelease: 2026-08-21
   lastPrerelease: 2026-07-31
 popularity:
   star: 16969
   watcher: 203
-  fork: 3650
+  fork: 3653
   release: 356
   contributor: 1012
-  pullRequest: 8816
-  issue: 6662
+  pullRequest: 8820
+  issue: 6663
 language:
   Go: 6278724
   TypeScript: 806486
@@ -39,61 +39,61 @@ recent:
   last30d:
     since: 2026-08-11
     release: 6
-    mergedPR: 174
-    openPR: 40
+    mergedPR: 175
+    openPR: 43
     closedIssue: 11
-    openIssue: 27
-    commit: 86
+    openIssue: 28
+    commit: 87
   last60d:
     since: 2026-07-12
     release: 10
-    mergedPR: 327
-    openPR: 65
+    mergedPR: 328
+    openPR: 68
     closedIssue: 28
-    openIssue: 44
-    commit: 203
+    openIssue: 45
+    commit: 204
   last90d:
     since: 2026-06-12
     release: 12
-    mergedPR: 427
-    openPR: 80
+    mergedPR: 428
+    openPR: 83
     closedIssue: 40
-    openIssue: 47
-    commit: 290
+    openIssue: 48
+    commit: 291
   last180d:
     since: 2026-03-14
     release: 20
-    mergedPR: 747
-    openPR: 128
+    mergedPR: 748
+    openPR: 131
     closedIssue: 75
-    openIssue: 79
-    commit: 528
+    openIssue: 80
+    commit: 529
   last360d:
     since: 2025-09-15
     release: 44
-    mergedPR: 1336
-    openPR: 172
+    mergedPR: 1337
+    openPR: 175
     closedIssue: 156
-    openIssue: 148
-    commit: 906
+    openIssue: 149
+    commit: 907
   last720d:
     since: 2024-09-20
     release: 71
-    mergedPR: 1846
-    openPR: 245
+    mergedPR: 1847
+    openPR: 248
     closedIssue: 416
-    openIssue: 307
-    commit: 1341
+    openIssue: 308
+    commit: 1342
 total:
   release: 356
-  mergedPR: 7081
-  openPR: 292
+  mergedPR: 7082
+  openPR: 295
   closedIssue: 5674
-  openIssue: 988
-  commit: 6760
+  openIssue: 989
+  commit: 6761
 ---
 path: /home/runner/.x-repo/github.com/argoproj/argo-workflows
-collectedAt: 2026-09-10T05:51:27Z
+collectedAt: 2026-09-10T20:29:56Z
 loc:
   Yaml:
     code: 1011347

@@ -1,0 +1,119 @@
+- repo: arch
+  subrepo: extra
+  srcname: argo-workflows
+  binname: argo-workflows
+  visiblename: argo-workflows
+  version: 4.0.5
+  origversion: 4.0.5-1
+  status: outdated
+  summary: Workflow Engine for Kubernetes
+  licenses:
+    - Apache-2.0
+- repo: arch_testing
+  subrepo: extra-testing
+  srcname: argo-workflows
+  binname: argo-workflows
+  visiblename: argo-workflows
+  version: 4.1.2
+  origversion: 4.1.2-1
+  status: newest
+  summary: Workflow Engine for Kubernetes
+  licenses:
+    - Apache-2.0
+- repo: chocolatey
+  binname: argo-workflows
+  visiblename: argo-workflows (CLI)
+  version: 3.4.2
+  origversion: null
+  status: outdated
+  summary: CLI for argo-workflows
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: argo-workflows
+  binname: argo-workflows
+  visiblename: argo-workflows
+  version: 4.0.5
+  origversion: 4.0.5-1
+  status: outdated
+  summary: Workflow Engine for Kubernetes
+  licenses:
+    - Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: argo-workflows
+  binname: argo-workflows
+  visiblename: argo-workflows
+  version: 4.0.5
+  origversion: 4.0.5-1
+  status: outdated
+  summary: Workflow Engine for Kubernetes
+  licenses:
+    - Apache-2.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: argo-workflows
+  binname: argo-workflows
+  visiblename: argo-workflows
+  version: 4.0.5
+  origversion: 4.0.5-1
+  status: outdated
+  summary: Workflow Engine for Kubernetes
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: argo-workflows
+  visiblename: argo-workflows
+  version: 3.6.5
+  origversion: null
+  status: outdated
+  summary: Container native workflow engine for Kubernetes
+  maintainers:
+    - groodt@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: argo-workflows
+  visiblename: argo-workflows
+  version: 3.6.10
+  origversion: null
+  status: outdated
+  summary: Container native workflow engine for Kubernetes
+  maintainers:
+    - groodt@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: argo-workflows
+  visiblename: argo-workflows
+  version: 3.6.10
+  origversion: null
+  status: outdated
+  summary: Container native workflow engine for Kubernetes
+  maintainers:
+    - groodt@gmail.com
+    - alan@clucas.org
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: argo-workflows
+  visiblename: argo-workflows
+  version: 4.0.5
+  origversion: null
+  status: outdated
+  summary: Container native workflow engine for Kubernetes
+  maintainers:
+    - groodt@gmail.com
+    - alan@clucas.org
+  licenses:
+    - Apache-2.0
+- repo: parabola
+  subrepo: extra
+  srcname: argo-workflows
+  binname: argo-workflows
+  visiblename: argo-workflows
+  version: 4.0.5
+  origversion: 4.0.5-1
+  status: outdated
+  summary: Workflow Engine for Kubernetes
+  licenses:
+    - Apache-2.0
