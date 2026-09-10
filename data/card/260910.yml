@@ -7,7 +7,7 @@ about:
   latestVersion: "v4.1.2"
   latestRelease: "v4.1.2"
   latestPrerelease: "v4.1.0-rc2"
-  collectedAt: 2026-09-10T20:29:05Z
+  collectedAt: 2026-09-10T23:17:15Z
 timeline:
   created: 2017-08-21
   lastCommit: 2026-09-10
@@ -93,7 +93,7 @@ total:
   commit: 6761
 ---
 path: /home/runner/.x-repo/github.com/argoproj/argo-workflows
-collectedAt: 2026-09-10T20:29:56Z
+collectedAt: 2026-09-10T23:17:54Z
 loc:
   Yaml:
     code: 1011347
