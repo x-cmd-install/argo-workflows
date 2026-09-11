@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 6 | 175 | 43 | 11 | 28 | 87 |
-| last60d | 2026-07-12 | 10 | 328 | 68 | 28 | 45 | 204 |
-| 90d | 2026-06-12 | 12 | 428 | 83 | 40 | 48 | 291 |
-| last180d | 2026-03-14 | 20 | 748 | 131 | 75 | 80 | 529 |
-| 360d | 2025-09-15 | 44 | 1337 | 175 | 156 | 149 | 907 |
-| last720d | 2024-09-20 | 71 | 1847 | 248 | 416 | 308 | 1342 |
+| 30d | 2026-08-12 | 5 | 163 | 43 | 11 | 27 | 87 |
+| last60d | 2026-07-13 | 10 | 326 | 66 | 28 | 44 | 204 |
+| 90d | 2026-06-13 | 12 | 428 | 81 | 40 | 48 | 291 |
+| last180d | 2026-03-15 | 20 | 746 | 131 | 75 | 80 | 529 |
+| 360d | 2025-09-16 | 44 | 1334 | 175 | 155 | 148 | 907 |
+| last720d | 2024-09-21 | 70 | 1844 | 247 | 415 | 307 | 1340 |
 
 ## Release assets
 
@@ -90,11 +90,11 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **11** distros on [repology.org](https://repology.org/project/argo-workflows). **1** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
+Reported by **10** distros on [repology.org](https://repology.org/project/argo-workflows). **2** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `4.0.5` | ⚠️ outdated |
+| Arch | `4.1.2` | ✅ latest |
 | Nix unstable | `4.0.5` | ⚠️ outdated |
 
 ## Improve this data
@@ -106,4 +106,4 @@ Install metadata for argo-workflows lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:18:03Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T06:07:59Z._
