@@ -14,12 +14,12 @@ x install argo-workflows
 
 ## Code insight
 
-Total: **1,329,861** lines of code across **2048** files in the top 5 languages.
+Total: **1,329,938** lines of code across **2050** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Yaml | 1,011,347 | 1,654 | 2,305 | 734 |
-| Go | 261,006 | 13,059 | 24,718 | 1006 |
+| Go | 261,071 | 13,063 | 24,724 | 1008 |
 | Json | 31,092 | 0 | 0 | 13 |
 | Tsx | 12,723 | 203 | 1,211 | 178 |
 | TypeScript | 4,374 | 897 | 659 | 117 |
@@ -42,60 +42,51 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v4.1.2` (2026-08-21)
-- **Last commit**: 2026-09-10
+- **Latest**: `v4.0.11` (2026-09-11)
+- **Last commit**: 2026-09-11
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 16,969 · **Forks**: 3,653 · **Open issues**: 6,663 · **Contributors**: 1,012
+- **Stars**: 16,968 · **Forks**: 3,655 · **Open issues**: 6,663 · **Contributors**: 1,014
 
 ## Totals (cumulative)
 
-- **Releases**: 356 · **Merged PRs**: 7082 · **Open PRs**: 295 · **Closed issues**: 5674 · **Open issues**: 989 · **Commits**: 6761
+- **Releases**: 358 · **Merged PRs**: 7094 · **Open PRs**: 300 · **Closed issues**: 5675 · **Open issues**: 988 · **Commits**: 6768
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 5 | 163 | 43 | 11 | 27 | 87 |
-| last60d | 2026-07-13 | 10 | 326 | 66 | 28 | 44 | 204 |
-| 90d | 2026-06-13 | 12 | 428 | 81 | 40 | 48 | 291 |
-| last180d | 2026-03-15 | 20 | 746 | 131 | 75 | 80 | 529 |
-| 360d | 2025-09-16 | 44 | 1334 | 175 | 155 | 148 | 907 |
-| last720d | 2024-09-21 | 70 | 1844 | 247 | 415 | 307 | 1340 |
+| 30d | 2026-08-12 | 7 | 175 | 48 | 12 | 26 | 94 |
+| last60d | 2026-07-13 | 12 | 338 | 71 | 29 | 43 | 211 |
+| 90d | 2026-06-13 | 14 | 440 | 86 | 41 | 47 | 298 |
+| last180d | 2026-03-15 | 22 | 758 | 136 | 76 | 79 | 536 |
+| 360d | 2025-09-16 | 46 | 1346 | 180 | 156 | 147 | 914 |
+| last720d | 2024-09-21 | 72 | 1856 | 252 | 416 | 306 | 1347 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [argo-darwin-amd64.gz](https://github.com/argoproj/argo-workflows/releases/download/v4.1.2/argo-darwin-amd64.gz) | 75.2 MiB | `native/darwin/x64` |
-| [argo-darwin-arm64.gz](https://github.com/argoproj/argo-workflows/releases/download/v4.1.2/argo-darwin-arm64.gz) | 71.8 MiB | `native/darwin/arm64` |
-| [argo-linux-amd64.gz](https://github.com/argoproj/argo-workflows/releases/download/v4.1.2/argo-linux-amd64.gz) | 71.4 MiB | `native/linux/x64` |
-| [argo-linux-arm64.gz](https://github.com/argoproj/argo-workflows/releases/download/v4.1.2/argo-linux-arm64.gz) | 66.2 MiB | `native/linux/arm64` |
-| [argo-linux-ppc64le.gz](https://github.com/argoproj/argo-workflows/releases/download/v4.1.2/argo-linux-ppc64le.gz) | 66.8 MiB | `other` |
-| [argo-linux-riscv64.gz](https://github.com/argoproj/argo-workflows/releases/download/v4.1.2/argo-linux-riscv64.gz) | 68.6 MiB | `native/linux/riscv64` |
-| [argo-linux-s390x.gz](https://github.com/argoproj/argo-workflows/releases/download/v4.1.2/argo-linux-s390x.gz) | 71.0 MiB | `other` |
-| [argo-windows-amd64.exe.gz](https://github.com/argoproj/argo-workflows/releases/download/v4.1.2/argo-windows-amd64.exe.gz) | 72.1 MiB | `native/win/x64` |
-| [argo-workflows-cli-checksums.sig](https://github.com/argoproj/argo-workflows/releases/download/v4.1.2/argo-workflows-cli-checksums.sig) | 97 B | `other` |
-| [argo-workflows-cli-checksums.txt](https://github.com/argoproj/argo-workflows/releases/download/v4.1.2/argo-workflows-cli-checksums.txt) | 700 B | `other` |
-| [argo-workflows-cosign.pub](https://github.com/argoproj/argo-workflows/releases/download/v4.1.2/argo-workflows-cosign.pub) | 178 B | `other` |
-| [install.yaml](https://github.com/argoproj/argo-workflows/releases/download/v4.1.2/install.yaml) | 11.4 MiB | `other` |
-| [namespace-install.yaml](https://github.com/argoproj/argo-workflows/releases/download/v4.1.2/namespace-install.yaml) | 11.4 MiB | `other` |
-| [quick-start-minimal.yaml](https://github.com/argoproj/argo-workflows/releases/download/v4.1.2/quick-start-minimal.yaml) | 11.4 MiB | `other` |
-| [quick-start-mysql.yaml](https://github.com/argoproj/argo-workflows/releases/download/v4.1.2/quick-start-mysql.yaml) | 11.5 MiB | `other` |
-| [quick-start-postgres.yaml](https://github.com/argoproj/argo-workflows/releases/download/v4.1.2/quick-start-postgres.yaml) | 11.5 MiB | `other` |
-| [quick-start-telemetry.yaml](https://github.com/argoproj/argo-workflows/releases/download/v4.1.2/quick-start-telemetry.yaml) | 11.5 MiB | `other` |
-| [sbom.tar.gz](https://github.com/argoproj/argo-workflows/releases/download/v4.1.2/sbom.tar.gz) | 277.2 KiB | `native/unknown` |
-
-## Distribution status
-
-Reported by **10** distros on [repology.org](https://repology.org/project/argo-workflows). **2** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `4.1.2` | ✅ latest |
-| Nix unstable | `4.0.5` | ⚠️ outdated |
+| [argo-darwin-amd64.gz](https://github.com/argoproj/argo-workflows/releases/download/v4.1.3/argo-darwin-amd64.gz) | 75.3 MiB | `native/darwin/x64` |
+| [argo-darwin-arm64.gz](https://github.com/argoproj/argo-workflows/releases/download/v4.1.3/argo-darwin-arm64.gz) | 71.8 MiB | `native/darwin/arm64` |
+| [argo-linux-amd64.gz](https://github.com/argoproj/argo-workflows/releases/download/v4.1.3/argo-linux-amd64.gz) | 71.5 MiB | `native/linux/x64` |
+| [argo-linux-arm64.gz](https://github.com/argoproj/argo-workflows/releases/download/v4.1.3/argo-linux-arm64.gz) | 66.3 MiB | `native/linux/arm64` |
+| [argo-linux-ppc64le.gz](https://github.com/argoproj/argo-workflows/releases/download/v4.1.3/argo-linux-ppc64le.gz) | 66.8 MiB | `other` |
+| [argo-linux-riscv64.gz](https://github.com/argoproj/argo-workflows/releases/download/v4.1.3/argo-linux-riscv64.gz) | 68.7 MiB | `native/linux/riscv64` |
+| [argo-linux-s390x.gz](https://github.com/argoproj/argo-workflows/releases/download/v4.1.3/argo-linux-s390x.gz) | 71.2 MiB | `other` |
+| [argo-windows-amd64.exe.gz](https://github.com/argoproj/argo-workflows/releases/download/v4.1.3/argo-windows-amd64.exe.gz) | 72.2 MiB | `native/win/x64` |
+| [argo-workflows-cli-checksums.sig](https://github.com/argoproj/argo-workflows/releases/download/v4.1.3/argo-workflows-cli-checksums.sig) | 97 B | `other` |
+| [argo-workflows-cli-checksums.txt](https://github.com/argoproj/argo-workflows/releases/download/v4.1.3/argo-workflows-cli-checksums.txt) | 700 B | `other` |
+| [argo-workflows-cosign.pub](https://github.com/argoproj/argo-workflows/releases/download/v4.1.3/argo-workflows-cosign.pub) | 178 B | `other` |
+| [install.yaml](https://github.com/argoproj/argo-workflows/releases/download/v4.1.3/install.yaml) | 11.4 MiB | `other` |
+| [namespace-install.yaml](https://github.com/argoproj/argo-workflows/releases/download/v4.1.3/namespace-install.yaml) | 11.4 MiB | `other` |
+| [quick-start-minimal.yaml](https://github.com/argoproj/argo-workflows/releases/download/v4.1.3/quick-start-minimal.yaml) | 11.4 MiB | `other` |
+| [quick-start-mysql.yaml](https://github.com/argoproj/argo-workflows/releases/download/v4.1.3/quick-start-mysql.yaml) | 11.5 MiB | `other` |
+| [quick-start-postgres.yaml](https://github.com/argoproj/argo-workflows/releases/download/v4.1.3/quick-start-postgres.yaml) | 11.5 MiB | `other` |
+| [quick-start-telemetry.yaml](https://github.com/argoproj/argo-workflows/releases/download/v4.1.3/quick-start-telemetry.yaml) | 11.5 MiB | `other` |
+| [sbom.tar.gz](https://github.com/argoproj/argo-workflows/releases/download/v4.1.3/sbom.tar.gz) | 277.2 KiB | `native/unknown` |
 
 ## Improve this data
 
@@ -106,4 +97,4 @@ Install metadata for argo-workflows lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T06:07:59Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T18:43:54Z._
