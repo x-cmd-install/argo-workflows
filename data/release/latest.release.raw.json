@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 78928369,
       "digest": "sha256:220d6dd78a66b6bc3342d74602663e9305573e6972833af4fe8e1f79dff6084b",
-      "download_count": 16,
+      "download_count": 23,
       "created_at": "2026-09-11T11:55:58Z",
       "updated_at": "2026-09-11T11:56:08Z",
       "browser_download_url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.3/argo-darwin-amd64.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 75337175,
       "digest": "sha256:13f50e50b2ff430a275f2d85240b98c6b5239fc48e74fd25df3fadd8ea7538a4",
-      "download_count": 0,
+      "download_count": 5,
       "created_at": "2026-09-11T11:55:58Z",
       "updated_at": "2026-09-11T11:56:05Z",
       "browser_download_url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.3/argo-darwin-arm64.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 74942646,
       "digest": "sha256:f3cf6ae424e9d2b3139efd29f673e7efc47a68881352a26a4122f72c4fc0efd4",
-      "download_count": 191,
+      "download_count": 385,
       "created_at": "2026-09-11T11:55:58Z",
       "updated_at": "2026-09-11T11:56:06Z",
       "browser_download_url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.3/argo-linux-amd64.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 69527661,
       "digest": "sha256:0d10a03a490bcfb2f5acb2bb6236357b2132159f5b37aa2ea54d6febb2c5ff57",
-      "download_count": 21,
+      "download_count": 35,
       "created_at": "2026-09-11T11:55:58Z",
       "updated_at": "2026-09-11T11:56:02Z",
       "browser_download_url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.3/argo-linux-arm64.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 70079268,
       "digest": "sha256:bab11064e6b3bcf3ece4c0c52aa1be731f594b6987ab75b32563c2b6ad5bef69",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-11T11:55:58Z",
       "updated_at": "2026-09-11T11:56:03Z",
       "browser_download_url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.3/argo-linux-ppc64le.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 72024893,
       "digest": "sha256:20cd5fb351cc37719412b6233c847b63105c39b08c4bed57f5857018676c9ced",
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2026-09-11T11:55:58Z",
       "updated_at": "2026-09-11T11:56:04Z",
       "browser_download_url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.3/argo-linux-riscv64.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 74623879,
       "digest": "sha256:5aa7a655676f39b8c40abdcefaea3d657fd7d00ccfc3e61930a32da81e7f7a57",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-11T11:55:58Z",
       "updated_at": "2026-09-11T11:56:05Z",
       "browser_download_url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.3/argo-linux-s390x.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 75711568,
       "digest": "sha256:5443ca6304a552db4e75d359576eb759204091e2ebd05368b3f6f172b331fef3",
-      "download_count": 49,
+      "download_count": 53,
       "created_at": "2026-09-11T11:55:58Z",
       "updated_at": "2026-09-11T11:56:03Z",
       "browser_download_url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.3/argo-windows-amd64.exe.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 97,
       "digest": "sha256:53dd54414dc644bbf9978daccf2236ce524cded0ccb91c0229a3f29af4b99307",
-      "download_count": 0,
+      "download_count": 2,
       "created_at": "2026-09-11T11:55:58Z",
       "updated_at": "2026-09-11T11:55:58Z",
       "browser_download_url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.3/argo-workflows-cli-checksums.sig"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 700,
       "digest": "sha256:585d2ca78e50c72f99b7ddd58f49a51e516f502926b479940126c4d534f4cf0e",
-      "download_count": 51,
+      "download_count": 59,
       "created_at": "2026-09-11T11:55:58Z",
       "updated_at": "2026-09-11T11:55:58Z",
       "browser_download_url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.3/argo-workflows-cli-checksums.txt"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 178,
       "digest": "sha256:b55a90cc0353f367c588f662975d1556ed496a204315ff19bf68dc76d7812c79",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-11T11:55:58Z",
       "updated_at": "2026-09-11T11:55:58Z",
       "browser_download_url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.3/argo-workflows-cosign.pub"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 11987610,
       "digest": "sha256:b8ebf0e4f887e4a1f49d3b9fbe97447482845313d5cad38b155b12d7891ab9ed",
-      "download_count": 393,
+      "download_count": 978,
       "created_at": "2026-09-11T11:55:58Z",
       "updated_at": "2026-09-11T11:56:00Z",
       "browser_download_url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.3/install.yaml"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 11984924,
       "digest": "sha256:62ab018bf4bc62b2c68fd9b9364f98cae369896e3cb9ae915885810374f8322a",
-      "download_count": 17,
+      "download_count": 33,
       "created_at": "2026-09-11T11:55:58Z",
       "updated_at": "2026-09-11T11:55:59Z",
       "browser_download_url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.3/namespace-install.yaml"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 12004607,
       "digest": "sha256:6c682d0a95a0252a1e32157b0cef35a048221e0bc719de8190185df493f5a326",
-      "download_count": 18,
+      "download_count": 22,
       "created_at": "2026-09-11T11:55:58Z",
       "updated_at": "2026-09-11T11:56:00Z",
       "browser_download_url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.3/quick-start-minimal.yaml"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 12006799,
       "digest": "sha256:4dfbf4b8b7249f42b050638997949436c82ae7c9b55be2de944ea0d329624088",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-09-11T11:55:58Z",
       "updated_at": "2026-09-11T11:56:00Z",
       "browser_download_url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.3/quick-start-mysql.yaml"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 12006733,
       "digest": "sha256:e14d172823702653c74b3557a5d861a92351bd7108e9d3c5516aca7aac2c7810",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-09-11T11:55:58Z",
       "updated_at": "2026-09-11T11:56:00Z",
       "browser_download_url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.3/quick-start-postgres.yaml"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 12010873,
       "digest": "sha256:14ae5a4da2f656e11e4eca7d1d4bf202402c8c58791a6fa9d81a126c40dd1c07",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-11T11:55:58Z",
       "updated_at": "2026-09-11T11:56:00Z",
       "browser_download_url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.3/quick-start-telemetry.yaml"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 283846,
       "digest": "sha256:b9f8fc0d635d81d254059d998d70d8ee9bcc92ad9be217c33c5c606402e82fa7",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-11T11:55:58Z",
       "updated_at": "2026-09-11T11:55:58Z",
       "browser_download_url": "https://github.com/argoproj/argo-workflows/releases/download/v4.1.3/sbom.tar.gz"
