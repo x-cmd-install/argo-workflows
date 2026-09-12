@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 16,968 · **Forks**: 3,655 · **Open issues**: 6,663 · **Contributors**: 1,014
+- **Stars**: 16,969 · **Forks**: 3,656 · **Open issues**: 6,667 · **Contributors**: 1,014
 
 ## Totals (cumulative)
 
-- **Releases**: 358 · **Merged PRs**: 7094 · **Open PRs**: 300 · **Closed issues**: 5675 · **Open issues**: 988 · **Commits**: 6768
+- **Releases**: 358 · **Merged PRs**: 7094 · **Open PRs**: 300 · **Closed issues**: 5679 · **Open issues**: 988 · **Commits**: 6768
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 7 | 175 | 48 | 12 | 26 | 94 |
-| last60d | 2026-07-13 | 12 | 338 | 71 | 29 | 43 | 211 |
-| 90d | 2026-06-13 | 14 | 440 | 86 | 41 | 47 | 298 |
-| last180d | 2026-03-15 | 22 | 758 | 136 | 76 | 79 | 536 |
-| 360d | 2025-09-16 | 46 | 1346 | 180 | 156 | 147 | 914 |
-| last720d | 2024-09-21 | 72 | 1856 | 252 | 416 | 306 | 1347 |
+| 30d | 2026-08-13 | 7 | 135 | 47 | 11 | 25 | 94 |
+| last60d | 2026-07-14 | 12 | 321 | 71 | 28 | 42 | 211 |
+| 90d | 2026-06-14 | 14 | 439 | 86 | 41 | 47 | 298 |
+| last180d | 2026-03-16 | 22 | 757 | 135 | 78 | 79 | 536 |
+| 360d | 2025-09-17 | 46 | 1345 | 180 | 159 | 146 | 914 |
+| last720d | 2024-09-22 | 72 | 1854 | 252 | 419 | 306 | 1346 |
 
 ## Release assets
 
@@ -88,6 +88,15 @@ Lowest-scoring checks:
 | [quick-start-telemetry.yaml](https://github.com/argoproj/argo-workflows/releases/download/v4.1.3/quick-start-telemetry.yaml) | 11.5 MiB | `other` |
 | [sbom.tar.gz](https://github.com/argoproj/argo-workflows/releases/download/v4.1.3/sbom.tar.gz) | 277.2 KiB | `native/unknown` |
 
+## Distribution status
+
+Reported by **10** distros on [repology.org](https://repology.org/project/argo-workflows). **2** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `4.1.2` | ✅ latest |
+| Nix unstable | `4.0.5` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for argo-workflows lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `argo-workflows` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -97,4 +106,4 @@ Install metadata for argo-workflows lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T18:43:54Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T05:37:28Z._
