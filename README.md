@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 16,969 · **Forks**: 3,656 · **Open issues**: 6,667 · **Contributors**: 1,014
+- **Stars**: 16,971 · **Forks**: 3,658 · **Open issues**: 6,667 · **Contributors**: 1,014
 
 ## Totals (cumulative)
 
-- **Releases**: 358 · **Merged PRs**: 7094 · **Open PRs**: 300 · **Closed issues**: 5679 · **Open issues**: 988 · **Commits**: 6768
+- **Releases**: 358 · **Merged PRs**: 7094 · **Open PRs**: 300 · **Closed issues**: 5680 · **Open issues**: 987 · **Commits**: 6768
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 7 | 135 | 47 | 11 | 25 | 94 |
-| last60d | 2026-07-14 | 12 | 321 | 71 | 28 | 42 | 211 |
-| 90d | 2026-06-14 | 14 | 439 | 86 | 41 | 47 | 298 |
-| last180d | 2026-03-16 | 22 | 757 | 135 | 78 | 79 | 536 |
-| 360d | 2025-09-17 | 46 | 1345 | 180 | 159 | 146 | 914 |
-| last720d | 2024-09-22 | 72 | 1854 | 252 | 419 | 306 | 1346 |
+| 30d | 2026-08-14 | 7 | 115 | 47 | 11 | 25 | 94 |
+| last60d | 2026-07-15 | 12 | 291 | 71 | 26 | 42 | 211 |
+| 90d | 2026-06-15 | 14 | 436 | 83 | 41 | 46 | 298 |
+| last180d | 2026-03-17 | 22 | 754 | 135 | 78 | 79 | 536 |
+| 360d | 2025-09-18 | 46 | 1343 | 179 | 159 | 145 | 914 |
+| last720d | 2024-09-23 | 72 | 1851 | 252 | 418 | 305 | 1345 |
 
 ## Release assets
 
@@ -90,7 +90,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **10** distros on [repology.org](https://repology.org/project/argo-workflows). **2** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+Reported by **10** distros on [repology.org](https://repology.org/project/argo-workflows). **3** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -106,4 +106,4 @@ Install metadata for argo-workflows lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:37:28Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T06:07:55Z._
