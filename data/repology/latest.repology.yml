@@ -43,9 +43,9 @@
   srcname: argo-workflows
   binname: argo-workflows
   visiblename: argo-workflows
-  version: 4.0.5
-  origversion: 4.0.5-1
-  status: outdated
+  version: 4.1.2
+  origversion: 4.1.2-1
+  status: newest
   summary: Workflow Engine for Kubernetes
   licenses:
     - Apache-2.0
