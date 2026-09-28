@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.1.4` (2026-09-18)
-- **Last commit**: 2026-09-25
+- **Last commit**: 2026-09-28
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 17,006 · **Forks**: 3,674 · **Open issues**: 6,678 · **Contributors**: 1,023
+- **Stars**: 17,006 · **Forks**: 3,673 · **Open issues**: 6,678 · **Contributors**: 1,023
 
 ## Totals (cumulative)
 
-- **Releases**: 360 · **Merged PRs**: 7204 · **Open PRs**: 306 · **Closed issues**: 5688 · **Open issues**: 990 · **Commits**: 6849
+- **Releases**: 360 · **Merged PRs**: 7206 · **Open PRs**: 307 · **Closed issues**: 5688 · **Open issues**: 990 · **Commits**: 6851
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 4 | 148 | 49 | 7 | 22 | 119 |
-| last60d | 2026-07-29 | 11 | 326 | 77 | 23 | 46 | 231 |
-| 90d | 2026-06-29 | 16 | 527 | 87 | 40 | 51 | 366 |
-| last180d | 2026-03-31 | 22 | 808 | 136 | 75 | 80 | 575 |
-| 360d | 2025-10-02 | 48 | 1447 | 180 | 162 | 140 | 988 |
-| last720d | 2024-10-07 | 73 | 1934 | 252 | 410 | 299 | 1403 |
+| 30d | 2026-08-29 | 4 | 150 | 50 | 7 | 22 | 115 |
+| last60d | 2026-07-30 | 11 | 314 | 76 | 19 | 40 | 217 |
+| 90d | 2026-06-30 | 16 | 526 | 88 | 40 | 51 | 315 |
+| last180d | 2026-04-01 | 22 | 806 | 137 | 75 | 80 | 557 |
+| 360d | 2025-10-03 | 48 | 1449 | 181 | 160 | 139 | 986 |
+| last720d | 2024-10-08 | 73 | 1936 | 252 | 409 | 299 | 1403 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for argo-workflows lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T06:10:47Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T06:21:50Z._
