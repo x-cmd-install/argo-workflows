@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,023 · **Forks**: 3,681 · **Open issues**: 6,685 · **Contributors**: 1,024
+- **Stars**: 17,025 · **Forks**: 3,681 · **Open issues**: 6,687 · **Contributors**: 1,024
 
 ## Totals (cumulative)
 
-- **Releases**: 360 · **Merged PRs**: 7228 · **Open PRs**: 318 · **Closed issues**: 5690 · **Open issues**: 995 · **Commits**: 6869
+- **Releases**: 360 · **Merged PRs**: 7230 · **Open PRs**: 315 · **Closed issues**: 5690 · **Open issues**: 997 · **Commits**: 6869
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 4 | 161 | 56 | 9 | 20 | 0 |
-| last60d | 2026-08-07 | 10 | 330 | 75 | 20 | 39 | 0 |
-| 90d | 2026-07-08 | 14 | 476 | 96 | 37 | 56 | 0 |
-| last180d | 2026-04-09 | 20 | 803 | 142 | 71 | 81 | 0 |
-| 360d | 2025-10-11 | 48 | 1463 | 191 | 154 | 140 | 0 |
-| last720d | 2024-10-16 | 73 | 1931 | 262 | 406 | 301 | 1398 |
+| 30d | 2026-09-07 | 4 | 153 | 50 | 9 | 20 | 107 |
+| last60d | 2026-08-08 | 10 | 330 | 71 | 20 | 41 | 228 |
+| 90d | 2026-07-09 | 14 | 473 | 93 | 36 | 58 | 320 |
+| last180d | 2026-04-10 | 20 | 805 | 139 | 71 | 83 | 545 |
+| 360d | 2025-10-12 | 48 | 1465 | 188 | 154 | 142 | 997 |
+| last720d | 2024-10-17 | 73 | 1929 | 258 | 404 | 303 | 1397 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for argo-workflows lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T07:26:21Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:52:09Z._
