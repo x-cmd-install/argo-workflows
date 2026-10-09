@@ -14,7 +14,7 @@ x install argo-workflows
 
 ## Code insight
 
-Total: **1,333,634** lines of code across **2192** files in the top 5 languages.
+Total: **1,333,643** lines of code across **2192** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.1.4` (2026-09-18)
-- **Last commit**: 2026-10-07
+- **Last commit**: 2026-10-08
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 17,026 · **Forks**: 3,686 · **Open issues**: 6,686 · **Contributors**: 1,025
+- **Stars**: 17,026 · **Forks**: 3,687 · **Open issues**: 6,686 · **Contributors**: 1,026
 
 ## Totals (cumulative)
 
-- **Releases**: 360 · **Merged PRs**: 7231 · **Open PRs**: 319 · **Closed issues**: 5690 · **Open issues**: 996 · **Commits**: 6870
+- **Releases**: 360 · **Merged PRs**: 7249 · **Open PRs**: 330 · **Closed issues**: 5691 · **Open issues**: 995 · **Commits**: 6887
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 4 | 148 | 52 | 8 | 18 | 0 |
-| last60d | 2026-08-09 | 10 | 331 | 74 | 21 | 40 | 0 |
-| 90d | 2026-07-10 | 14 | 473 | 97 | 36 | 57 | 0 |
-| last180d | 2026-04-11 | 20 | 806 | 142 | 72 | 82 | 0 |
-| 360d | 2025-10-13 | 48 | 1465 | 192 | 155 | 141 | 0 |
-| last720d | 2024-10-18 | 73 | 1926 | 262 | 401 | 301 | 1391 |
+| 30d | 2026-09-09 | 4 | 152 | 58 | 5 | 16 | 125 |
+| last60d | 2026-08-10 | 10 | 346 | 84 | 20 | 39 | 246 |
+| 90d | 2026-07-11 | 14 | 491 | 108 | 37 | 56 | 338 |
+| last180d | 2026-04-12 | 20 | 823 | 153 | 73 | 81 | 563 |
+| 360d | 2025-10-14 | 48 | 1482 | 203 | 155 | 140 | 1015 |
+| last720d | 2024-10-19 | 73 | 1943 | 271 | 402 | 300 | 1406 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for argo-workflows lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T07:01:57Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T07:03:53Z._
