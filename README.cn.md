@@ -14,12 +14,12 @@ x install argo-workflows
 
 ## 代码洞察
 
-合计: **1,333,643** 行代码（覆盖前 5 种语言、共 **2192** 个文件）。
+合计: **1,333,713** 行代码（覆盖前 5 种语言、共 **2192** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Yaml | 1,018,131 | 1,687 | 2,347 | 851 |
-| Go | 257,794 | 13,590 | 25,001 | 1029 |
+| Go | 257,864 | 13,593 | 25,009 | 1029 |
 | Json | 31,156 | 0 | 0 | 13 |
 | Tsx | 12,723 | 203 | 1,211 | 178 |
 | TypeScript | 4,496 | 929 | 683 | 121 |
@@ -42,51 +42,51 @@ x install argo-workflows
 
 ## 发布
 
-- **最新版本**: `v4.1.4` (2026-09-18)
-- **最近提交**: 2026-10-08
+- **最新版本**: `v4.1.5` (2026-10-09)
+- **最近提交**: 2026-10-09
 - **Release 含资产**: 18 个
 
 ## 流行度
 
-- **Star**: 17,026 · **Fork**: 3,687 · **开放 issue**: 6,686 · **贡献者**: 1,026
+- **Star**: 17,029 · **Fork**: 3,689 · **开放 issue**: 6,686 · **贡献者**: 1,027
 
 ## 累计统计
 
-- **发布数**: 360 · **已合并 PR**: 7249 · **开放 PR**: 330 · **已关闭 issue**: 5691 · **开放 issue**: 995 · **提交数**: 6887
+- **发布数**: 362 · **已合并 PR**: 7268 · **开放 PR**: 319 · **已关闭 issue**: 5692 · **开放 issue**: 994 · **提交数**: 6902
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 4 | 152 | 58 | 5 | 16 | 125 |
-| last60d | 2026-08-10 | 10 | 346 | 84 | 20 | 39 | 246 |
-| 90d | 2026-07-11 | 14 | 491 | 108 | 37 | 56 | 338 |
-| last180d | 2026-04-12 | 20 | 823 | 153 | 73 | 81 | 563 |
-| 360d | 2025-10-14 | 48 | 1482 | 203 | 155 | 140 | 1015 |
-| last720d | 2024-10-19 | 73 | 1943 | 271 | 402 | 300 | 1406 |
+| 30d | 2026-09-10 | 6 | 169 | 45 | 4 | 16 | 140 |
+| last60d | 2026-08-11 | 12 | 356 | 73 | 20 | 39 | 261 |
+| 90d | 2026-07-12 | 16 | 510 | 97 | 37 | 56 | 353 |
+| last180d | 2026-04-13 | 22 | 812 | 142 | 74 | 80 | 578 |
+| 360d | 2025-10-15 | 48 | 1501 | 192 | 155 | 139 | 1030 |
+| last720d | 2024-10-20 | 75 | 1962 | 259 | 403 | 299 | 1419 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [argo-darwin-amd64.gz](https://github.com/argoproj/argo-workflows/releases/download/v4.1.4/argo-darwin-amd64.gz) | 75.4 MiB | `native/darwin/x64` |
-| [argo-darwin-arm64.gz](https://github.com/argoproj/argo-workflows/releases/download/v4.1.4/argo-darwin-arm64.gz) | 71.9 MiB | `native/darwin/arm64` |
-| [argo-linux-amd64.gz](https://github.com/argoproj/argo-workflows/releases/download/v4.1.4/argo-linux-amd64.gz) | 71.6 MiB | `native/linux/x64` |
-| [argo-linux-arm64.gz](https://github.com/argoproj/argo-workflows/releases/download/v4.1.4/argo-linux-arm64.gz) | 66.4 MiB | `native/linux/arm64` |
-| [argo-linux-ppc64le.gz](https://github.com/argoproj/argo-workflows/releases/download/v4.1.4/argo-linux-ppc64le.gz) | 66.9 MiB | `other` |
-| [argo-linux-riscv64.gz](https://github.com/argoproj/argo-workflows/releases/download/v4.1.4/argo-linux-riscv64.gz) | 68.8 MiB | `native/linux/riscv64` |
-| [argo-linux-s390x.gz](https://github.com/argoproj/argo-workflows/releases/download/v4.1.4/argo-linux-s390x.gz) | 71.2 MiB | `other` |
-| [argo-windows-amd64.exe.gz](https://github.com/argoproj/argo-workflows/releases/download/v4.1.4/argo-windows-amd64.exe.gz) | 72.3 MiB | `native/win/x64` |
-| [argo-workflows-cli-checksums.sig](https://github.com/argoproj/argo-workflows/releases/download/v4.1.4/argo-workflows-cli-checksums.sig) | 97 B | `other` |
-| [argo-workflows-cli-checksums.txt](https://github.com/argoproj/argo-workflows/releases/download/v4.1.4/argo-workflows-cli-checksums.txt) | 700 B | `other` |
-| [argo-workflows-cosign.pub](https://github.com/argoproj/argo-workflows/releases/download/v4.1.4/argo-workflows-cosign.pub) | 178 B | `other` |
-| [install.yaml](https://github.com/argoproj/argo-workflows/releases/download/v4.1.4/install.yaml) | 11.4 MiB | `other` |
-| [namespace-install.yaml](https://github.com/argoproj/argo-workflows/releases/download/v4.1.4/namespace-install.yaml) | 11.4 MiB | `other` |
-| [quick-start-minimal.yaml](https://github.com/argoproj/argo-workflows/releases/download/v4.1.4/quick-start-minimal.yaml) | 11.4 MiB | `other` |
-| [quick-start-mysql.yaml](https://github.com/argoproj/argo-workflows/releases/download/v4.1.4/quick-start-mysql.yaml) | 11.5 MiB | `other` |
-| [quick-start-postgres.yaml](https://github.com/argoproj/argo-workflows/releases/download/v4.1.4/quick-start-postgres.yaml) | 11.5 MiB | `other` |
-| [quick-start-telemetry.yaml](https://github.com/argoproj/argo-workflows/releases/download/v4.1.4/quick-start-telemetry.yaml) | 11.5 MiB | `other` |
-| [sbom.tar.gz](https://github.com/argoproj/argo-workflows/releases/download/v4.1.4/sbom.tar.gz) | 277.0 KiB | `native/unknown` |
+| [argo-darwin-amd64.gz](https://github.com/argoproj/argo-workflows/releases/download/v4.1.5/argo-darwin-amd64.gz) | 75.4 MiB | `native/darwin/x64` |
+| [argo-darwin-arm64.gz](https://github.com/argoproj/argo-workflows/releases/download/v4.1.5/argo-darwin-arm64.gz) | 71.9 MiB | `native/darwin/arm64` |
+| [argo-linux-amd64.gz](https://github.com/argoproj/argo-workflows/releases/download/v4.1.5/argo-linux-amd64.gz) | 71.6 MiB | `native/linux/x64` |
+| [argo-linux-arm64.gz](https://github.com/argoproj/argo-workflows/releases/download/v4.1.5/argo-linux-arm64.gz) | 66.4 MiB | `native/linux/arm64` |
+| [argo-linux-ppc64le.gz](https://github.com/argoproj/argo-workflows/releases/download/v4.1.5/argo-linux-ppc64le.gz) | 66.9 MiB | `other` |
+| [argo-linux-riscv64.gz](https://github.com/argoproj/argo-workflows/releases/download/v4.1.5/argo-linux-riscv64.gz) | 68.8 MiB | `native/linux/riscv64` |
+| [argo-linux-s390x.gz](https://github.com/argoproj/argo-workflows/releases/download/v4.1.5/argo-linux-s390x.gz) | 71.3 MiB | `other` |
+| [argo-windows-amd64.exe.gz](https://github.com/argoproj/argo-workflows/releases/download/v4.1.5/argo-windows-amd64.exe.gz) | 72.3 MiB | `native/win/x64` |
+| [argo-workflows-cli-checksums.sig](https://github.com/argoproj/argo-workflows/releases/download/v4.1.5/argo-workflows-cli-checksums.sig) | 97 B | `other` |
+| [argo-workflows-cli-checksums.txt](https://github.com/argoproj/argo-workflows/releases/download/v4.1.5/argo-workflows-cli-checksums.txt) | 700 B | `other` |
+| [argo-workflows-cosign.pub](https://github.com/argoproj/argo-workflows/releases/download/v4.1.5/argo-workflows-cosign.pub) | 178 B | `other` |
+| [install.yaml](https://github.com/argoproj/argo-workflows/releases/download/v4.1.5/install.yaml) | 11.4 MiB | `other` |
+| [namespace-install.yaml](https://github.com/argoproj/argo-workflows/releases/download/v4.1.5/namespace-install.yaml) | 11.4 MiB | `other` |
+| [quick-start-minimal.yaml](https://github.com/argoproj/argo-workflows/releases/download/v4.1.5/quick-start-minimal.yaml) | 11.4 MiB | `other` |
+| [quick-start-mysql.yaml](https://github.com/argoproj/argo-workflows/releases/download/v4.1.5/quick-start-mysql.yaml) | 11.5 MiB | `other` |
+| [quick-start-postgres.yaml](https://github.com/argoproj/argo-workflows/releases/download/v4.1.5/quick-start-postgres.yaml) | 11.5 MiB | `other` |
+| [quick-start-telemetry.yaml](https://github.com/argoproj/argo-workflows/releases/download/v4.1.5/quick-start-telemetry.yaml) | 11.5 MiB | `other` |
+| [sbom.tar.gz](https://github.com/argoproj/argo-workflows/releases/download/v4.1.5/sbom.tar.gz) | 277.1 KiB | `native/unknown` |
 
 ## 改进这些数据
 
@@ -97,4 +97,4 @@ argo-workflows 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/in
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261009.yml` · 2026-10-09T07:03:54Z._
+_数据快照: `data/card/261010.yml` · 2026-10-10T06:42:07Z._
