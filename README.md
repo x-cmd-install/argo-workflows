@@ -14,15 +14,15 @@ x install argo-workflows
 
 ## Code insight
 
-Total: **1,334,177** lines of code across **2195** files in the top 5 languages.
+Total: **1,334,123** lines of code across **2236** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Yaml | 1,018,131 | 1,687 | 2,347 | 851 |
-| Go | 258,090 | 13,638 | 25,031 | 1030 |
+| Yaml | 1,019,294 | 1,687 | 2,364 | 892 |
+| Go | 256,871 | 13,638 | 24,984 | 1030 |
 | Json | 31,156 | 0 | 0 | 13 |
 | Tsx | 12,755 | 204 | 1,218 | 179 |
-| TypeScript | 4,699 | 929 | 707 | 122 |
+| TypeScript | 4,698 | 943 | 704 | 122 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.1.5` (2026-10-09)
-- **Last commit**: 2026-10-12
+- **Last commit**: 2026-10-13
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 17,035 · **Forks**: 3,692 · **Open issues**: 6,688 · **Contributors**: 1,028
+- **Stars**: 17,037 · **Forks**: 3,693 · **Open issues**: 6,689 · **Contributors**: 1,031
 
 ## Totals (cumulative)
 
-- **Releases**: 362 · **Merged PRs**: 7286 · **Open PRs**: 320 · **Closed issues**: 5693 · **Open issues**: 995 · **Commits**: 6914
+- **Releases**: 362 · **Merged PRs**: 7293 · **Open PRs**: 321 · **Closed issues**: 5693 · **Open issues**: 996 · **Commits**: 6920
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 4 | 165 | 48 | 4 | 18 | 118 |
-| last60d | 2026-08-14 | 11 | 301 | 74 | 18 | 40 | 220 |
-| 90d | 2026-07-15 | 16 | 479 | 96 | 34 | 56 | 324 |
-| last180d | 2026-04-16 | 22 | 817 | 141 | 72 | 80 | 556 |
-| 360d | 2025-10-18 | 48 | 1517 | 192 | 154 | 139 | 1026 |
-| last720d | 2024-10-23 | 75 | 1977 | 260 | 402 | 299 | 1423 |
+| 30d | 2026-09-14 | 4 | 156 | 51 | 4 | 19 | 124 |
+| last60d | 2026-08-15 | 8 | 308 | 76 | 15 | 41 | 226 |
+| 90d | 2026-07-16 | 16 | 481 | 98 | 32 | 57 | 330 |
+| last180d | 2026-04-17 | 22 | 793 | 143 | 72 | 80 | 562 |
+| 360d | 2025-10-19 | 48 | 1524 | 194 | 154 | 140 | 1032 |
+| last720d | 2024-10-24 | 75 | 1977 | 260 | 400 | 300 | 1429 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for argo-workflows lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:53:46Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:50:10Z._
