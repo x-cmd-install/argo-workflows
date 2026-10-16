@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.1.5` (2026-10-09)
-- **Last commit**: 2026-10-14
+- **Last commit**: 2026-10-15
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 17,036 · **Forks**: 3,694 · **Open issues**: 6,691 · **Contributors**: 1,031
+- **Stars**: 17,039 · **Forks**: 3,694 · **Open issues**: 6,692 · **Contributors**: 1,031
 
 ## Totals (cumulative)
 
-- **Releases**: 362 · **Merged PRs**: 7295 · **Open PRs**: 325 · **Closed issues**: 5693 · **Open issues**: 998 · **Commits**: 6921
+- **Releases**: 362 · **Merged PRs**: 7296 · **Open PRs**: 326 · **Closed issues**: 5693 · **Open issues**: 999 · **Commits**: 6922
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 4 | 152 | 51 | 4 | 20 | 125 |
-| last60d | 2026-08-16 | 8 | 309 | 81 | 15 | 42 | 227 |
-| 90d | 2026-07-17 | 16 | 482 | 103 | 32 | 58 | 331 |
-| last180d | 2026-04-18 | 22 | 792 | 147 | 72 | 82 | 563 |
-| 360d | 2025-10-20 | 48 | 1512 | 197 | 154 | 142 | 1033 |
-| last720d | 2024-10-25 | 74 | 1976 | 263 | 400 | 302 | 1423 |
+| 30d | 2026-09-16 | 4 | 153 | 55 | 4 | 20 | 126 |
+| last60d | 2026-08-17 | 8 | 304 | 82 | 14 | 42 | 228 |
+| 90d | 2026-07-18 | 16 | 483 | 104 | 32 | 59 | 332 |
+| last180d | 2026-04-19 | 22 | 792 | 147 | 72 | 82 | 564 |
+| 360d | 2025-10-21 | 48 | 1508 | 197 | 154 | 143 | 1034 |
+| last720d | 2024-10-26 | 74 | 1974 | 264 | 400 | 303 | 1422 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for argo-workflows lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T05:38:00Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T05:25:38Z._
