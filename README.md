@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,074 · **Forks**: 3,721 · **Open issues**: 6,714 · **Contributors**: 1,040
+- **Stars**: 17,078 · **Forks**: 3,723 · **Open issues**: 6,715 · **Contributors**: 1,040
 
 ## Totals (cumulative)
 
-- **Releases**: 365 · **Merged PRs**: 7378 · **Open PRs**: 355 · **Closed issues**: 5696 · **Open issues**: 1018 · **Commits**: 6985
+- **Releases**: 365 · **Merged PRs**: 7378 · **Open PRs**: 360 · **Closed issues**: 5696 · **Open issues**: 1019 · **Commits**: 6985
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 5 | 130 | 72 | 2 | 31 | 117 |
-| last60d | 2026-09-02 | 9 | 308 | 101 | 12 | 50 | 249 |
-| 90d | 2026-08-03 | 15 | 480 | 118 | 25 | 66 | 351 |
-| last180d | 2026-05-05 | 23 | 843 | 169 | 65 | 93 | 601 |
-| 360d | 2025-11-06 | 51 | 1569 | 226 | 147 | 156 | 1086 |
-| last720d | 2024-11-11 | 75 | 2042 | 277 | 388 | 314 | 1465 |
+| 30d | 2026-10-03 | 5 | 130 | 77 | 2 | 32 | 98 |
+| last60d | 2026-09-03 | 9 | 308 | 106 | 12 | 49 | 236 |
+| 90d | 2026-08-04 | 15 | 480 | 122 | 25 | 67 | 349 |
+| last180d | 2026-05-06 | 23 | 843 | 173 | 65 | 94 | 600 |
+| 360d | 2025-11-07 | 51 | 1567 | 231 | 146 | 157 | 1075 |
+| last720d | 2024-11-12 | 75 | 2041 | 281 | 387 | 314 | 1464 |
 
 ## Release assets
 
@@ -90,7 +90,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **11** distros on [repology.org](https://repology.org/project/argo-workflows). **1** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
+Reported by **9** distros on [repology.org](https://repology.org/project/argo-workflows). **1** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -106,4 +106,4 @@ Install metadata for argo-workflows lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:59:10Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:06:34Z._
