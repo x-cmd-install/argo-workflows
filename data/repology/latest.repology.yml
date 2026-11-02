@@ -1,3 +1,14 @@
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: argo-workflows
+  binname: argo-workflows
+  visiblename: argo-workflows
+  version: 4.1.4
+  origversion: 4.1.4-1
+  status: outdated
+  summary: Workflow Engine for Kubernetes
+  licenses:
+    - Apache-2.0
 - repo: arch
   subrepo: extra
   srcname: argo-workflows
@@ -27,39 +38,6 @@
   origversion: null
   status: outdated
   summary: CLI for argo-workflows
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: argo-workflows
-  binname: argo-workflows
-  visiblename: argo-workflows
-  version: 4.0.5
-  origversion: 4.0.5-1
-  status: outdated
-  summary: Workflow Engine for Kubernetes
-  licenses:
-    - Apache-2.0
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: argo-workflows
-  binname: argo-workflows
-  visiblename: argo-workflows
-  version: 4.1.4
-  origversion: 4.1.4-1
-  status: outdated
-  summary: Workflow Engine for Kubernetes
-  licenses:
-    - Apache-2.0
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: argo-workflows
-  binname: argo-workflows
-  visiblename: argo-workflows
-  version: 4.1.4
-  origversion: 4.1.4-1
-  status: outdated
-  summary: Workflow Engine for Kubernetes
-  licenses:
-    - Apache-2.0
 - repo: nix_stable_25_05
   srcname: argo-workflows
   visiblename: argo-workflows
