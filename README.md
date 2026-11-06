@@ -14,7 +14,7 @@ x install argo-workflows
 
 ## Code insight
 
-Total: **1,361,380** lines of code across **2447** files in the top 5 languages.
+Total: **1,361,385** lines of code across **2447** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,082 · **Forks**: 3,727 · **Open issues**: 6,720 · **Contributors**: 1,045
+- **Stars**: 17,082 · **Forks**: 3,726 · **Open issues**: 6,721 · **Contributors**: 1,046
 
 ## Totals (cumulative)
 
-- **Releases**: 365 · **Merged PRs**: 7413 · **Open PRs**: 373 · **Closed issues**: 5701 · **Open issues**: 1019 · **Commits**: 7012
+- **Releases**: 365 · **Merged PRs**: 7420 · **Open PRs**: 369 · **Closed issues**: 5702 · **Open issues**: 1019 · **Commits**: 7017
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 5 | 162 | 92 | 4 | 30 | 125 |
-| last60d | 2026-09-06 | 9 | 342 | 120 | 14 | 51 | 263 |
-| 90d | 2026-08-07 | 15 | 512 | 136 | 27 | 68 | 376 |
-| last180d | 2026-05-09 | 23 | 875 | 184 | 67 | 97 | 627 |
-| 360d | 2025-11-10 | 51 | 1592 | 243 | 145 | 159 | 1102 |
-| last720d | 2024-11-15 | 74 | 2075 | 292 | 390 | 314 | 1489 |
+| 30d | 2026-10-07 | 5 | 169 | 90 | 4 | 31 | 130 |
+| last60d | 2026-09-07 | 9 | 338 | 119 | 14 | 50 | 268 |
+| 90d | 2026-08-08 | 15 | 517 | 135 | 27 | 69 | 381 |
+| last180d | 2026-05-10 | 23 | 881 | 181 | 67 | 98 | 632 |
+| 360d | 2025-11-11 | 51 | 1596 | 239 | 145 | 160 | 1107 |
+| last720d | 2024-11-16 | 74 | 2082 | 288 | 390 | 315 | 1494 |
 
 ## Release assets
 
@@ -106,4 +106,4 @@ Install metadata for argo-workflows lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:55:23Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:43:01Z._
