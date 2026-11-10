@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Fuzzing** (0/10) — project is not fuzzed
-- **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
+- **Branch-Protection** (3/10) — branch protection is not maximal on development and all release branches
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,085 · **Forks**: 3,728 · **Open issues**: 6,722 · **Contributors**: 1,047
+- **Stars**: 17,085 · **Forks**: 3,726 · **Open issues**: 6,727 · **Contributors**: 1,046
 
 ## Totals (cumulative)
 
-- **Releases**: 365 · **Merged PRs**: 7433 · **Open PRs**: 377 · **Closed issues**: 5702 · **Open issues**: 1020 · **Commits**: 7024
+- **Releases**: 365 · **Merged PRs**: 7434 · **Open PRs**: 377 · **Closed issues**: 5702 · **Open issues**: 1025 · **Commits**: 7024
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 5 | 143 | 91 | 4 | 32 | 137 |
-| last60d | 2026-09-09 | 9 | 330 | 118 | 10 | 47 | 275 |
-| 90d | 2026-08-10 | 15 | 527 | 140 | 25 | 70 | 388 |
-| last180d | 2026-05-12 | 23 | 889 | 188 | 67 | 99 | 639 |
-| 360d | 2025-11-13 | 51 | 1598 | 247 | 144 | 159 | 1114 |
-| last720d | 2024-11-18 | 74 | 2092 | 296 | 389 | 316 | 1501 |
+| 30d | 2026-10-11 | 3 | 145 | 91 | 4 | 36 | 0 |
+| last60d | 2026-09-11 | 9 | 313 | 116 | 9 | 52 | 0 |
+| 90d | 2026-08-12 | 14 | 508 | 140 | 25 | 74 | 0 |
+| last180d | 2026-05-14 | 23 | 887 | 186 | 64 | 103 | 0 |
+| 360d | 2025-11-15 | 49 | 1594 | 247 | 141 | 164 | 0 |
+| last720d | 2024-11-20 | 74 | 2089 | 296 | 388 | 321 | 1500 |
 
 ## Release assets
 
@@ -106,4 +106,4 @@ Install metadata for argo-workflows lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T07:06:32Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:32:38Z._
