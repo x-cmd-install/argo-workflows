@@ -14,12 +14,12 @@ x install argo-workflows
 
 ## Code insight
 
-Total: **1,341,927** lines of code across **2475** files in the top 5 languages.
+Total: **1,341,949** lines of code across **2475** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Yaml | 1,023,472 | 1,698 | 2,418 | 1029 |
-| Go | 260,080 | 18,942 | 26,020 | 1125 |
+| Go | 260,102 | 18,945 | 26,023 | 1125 |
 | Json | 31,034 | 0 | 0 | 13 |
 | Tsx | 12,868 | 203 | 1,233 | 182 |
 | TypeScript | 4,896 | 1,013 | 751 | 126 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,105 · **Forks**: 3,739 · **Open issues**: 6,735 · **Contributors**: 1,051
+- **Stars**: 17,107 · **Forks**: 3,741 · **Open issues**: 6,735 · **Contributors**: 1,052
 
 ## Totals (cumulative)
 
-- **Releases**: 365 · **Merged PRs**: 7486 · **Open PRs**: 371 · **Closed issues**: 5709 · **Open issues**: 1026 · **Commits**: 7063
+- **Releases**: 365 · **Merged PRs**: 7487 · **Open PRs**: 372 · **Closed issues**: 5710 · **Open issues**: 1025 · **Commits**: 7064
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 3 | 162 | 72 | 9 | 31 | 127 |
-| last60d | 2026-09-20 | 5 | 308 | 107 | 12 | 51 | 226 |
-| 90d | 2026-08-21 | 11 | 454 | 135 | 20 | 69 | 351 |
-| last180d | 2026-05-23 | 23 | 918 | 179 | 66 | 104 | 674 |
-| 360d | 2025-11-24 | 49 | 1635 | 241 | 145 | 164 | 1137 |
-| last720d | 2024-11-29 | 74 | 2130 | 293 | 383 | 319 | 1523 |
+| 30d | 2026-10-21 | 3 | 158 | 73 | 9 | 27 | 128 |
+| last60d | 2026-09-21 | 5 | 291 | 108 | 12 | 50 | 227 |
+| 90d | 2026-08-22 | 9 | 455 | 134 | 21 | 68 | 352 |
+| last180d | 2026-05-24 | 23 | 919 | 180 | 67 | 103 | 675 |
+| 360d | 2025-11-25 | 49 | 1630 | 242 | 145 | 163 | 1138 |
+| last720d | 2024-11-30 | 74 | 2131 | 294 | 384 | 318 | 1523 |
 
 ## Release assets
 
@@ -106,4 +106,4 @@ Install metadata for argo-workflows lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T10:25:23Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T08:48:29Z._
