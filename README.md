@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,108 · **Forks**: 3,741 · **Open issues**: 6,736 · **Contributors**: 1,055
+- **Stars**: 17,109 · **Forks**: 3,740 · **Open issues**: 6,736 · **Contributors**: 1,055
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 3 | 159 | 61 | 8 | 27 | 0 |
-| last60d | 2026-09-22 | 5 | 294 | 98 | 12 | 51 | 0 |
-| 90d | 2026-08-23 | 9 | 465 | 124 | 21 | 69 | 0 |
-| last180d | 2026-05-25 | 23 | 931 | 168 | 68 | 103 | 0 |
-| 360d | 2025-11-26 | 49 | 1637 | 231 | 145 | 163 | 0 |
-| last720d | 2024-12-01 | 74 | 2143 | 283 | 385 | 318 | 1533 |
+| 30d | 2026-10-23 | 0 | 157 | 59 | 8 | 26 | 109 |
+| last60d | 2026-09-23 | 5 | 290 | 98 | 12 | 50 | 207 |
+| 90d | 2026-08-24 | 9 | 460 | 124 | 21 | 69 | 341 |
+| last180d | 2026-05-26 | 23 | 928 | 167 | 68 | 102 | 677 |
+| 360d | 2025-11-27 | 49 | 1636 | 231 | 145 | 162 | 1143 |
+| last720d | 2024-12-02 | 74 | 2139 | 283 | 383 | 318 | 1532 |
 
 ## Release assets
 
@@ -106,4 +106,4 @@ Install metadata for argo-workflows lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T08:10:08Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T08:45:40Z._
