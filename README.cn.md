@@ -43,27 +43,27 @@ x install argo-workflows
 ## 发布
 
 - **最新版本**: `v4.0.15` (2026-10-22)
-- **最近提交**: 2026-11-24
+- **最近提交**: 2026-11-25
 - **Release 含资产**: 18 个
 
 ## 流行度
 
-- **Star**: 17,114 · **Fork**: 3,741 · **开放 issue**: 6,738 · **贡献者**: 1,056
+- **Star**: 17,117 · **Fork**: 3,745 · **开放 issue**: 6,740 · **贡献者**: 1,056
 
 ## 累计统计
 
-- **发布数**: 365 · **已合并 PR**: 7504 · **开放 PR**: 363 · **已关闭 issue**: 5711 · **开放 issue**: 1027 · **提交数**: 7077
+- **发布数**: 365 · **已合并 PR**: 7524 · **开放 PR**: 365 · **已关闭 issue**: 5711 · **开放 issue**: 1029 · **提交数**: 7089
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 160 | 59 | 7 | 26 | 112 |
-| last60d | 2026-09-25 | 5 | 282 | 99 | 12 | 49 | 210 |
-| 90d | 2026-08-26 | 9 | 455 | 123 | 21 | 69 | 344 |
-| last180d | 2026-05-28 | 23 | 929 | 169 | 68 | 102 | 680 |
-| 360d | 2025-11-29 | 49 | 1639 | 233 | 145 | 164 | 1146 |
-| last720d | 2024-12-04 | 72 | 2144 | 285 | 380 | 319 | 1532 |
+| 30d | 2026-10-26 | 0 | 177 | 63 | 7 | 25 | 0 |
+| last60d | 2026-09-26 | 5 | 301 | 104 | 12 | 51 | 0 |
+| 90d | 2026-08-27 | 9 | 470 | 125 | 21 | 71 | 0 |
+| last180d | 2026-05-29 | 23 | 948 | 172 | 67 | 104 | 0 |
+| 360d | 2025-11-30 | 49 | 1659 | 235 | 145 | 166 | 0 |
+| last720d | 2024-12-05 | 72 | 2163 | 287 | 377 | 320 | 1544 |
 
 ## Release 资产
 
@@ -88,15 +88,6 @@ x install argo-workflows
 | [quick-start-telemetry.yaml](https://github.com/argoproj/argo-workflows/releases/download/v4.1.6/quick-start-telemetry.yaml) | 11.5 MiB | `other` |
 | [sbom.tar.gz](https://github.com/argoproj/argo-workflows/releases/download/v4.1.6/sbom.tar.gz) | 278.1 KiB | `native/unknown` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/argo-workflows) 上共有 **11** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**10** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `4.1.4` | ⚠️ outdated |
-| Nix unstable | `4.0.5` | ⚠️ outdated |
-
 ## 改进这些数据
 
 argo-workflows 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `argo-workflows` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -106,4 +97,4 @@ argo-workflows 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/in
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T11:30:15Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T09:25:16Z._
